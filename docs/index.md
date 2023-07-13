@@ -33,6 +33,8 @@ __Brigham Young University - Idaho__, Rexburg, ID
 
 ### Internships
 
+<!-- ADD SOME REAL INTERNSHIPS if you have done any :0 -->
+
 `January 2028 - June 2028`
 __Pacific Northwest National Lab__, Richland, WA
 
