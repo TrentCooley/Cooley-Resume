@@ -2,8 +2,8 @@
 layout: cv
 title: Brigham Young's Resume
 ---
-# Brigham Young
-The second prophet of The Church of Jesus Christ of Latter-day Saints.
+# Trent Cooley
+A student at Brigham Young University
 
 <div id="webaddress">
 <a href="datascience@byui.edu">datascience@byui.edu</a>
@@ -16,15 +16,17 @@ The second prophet of The Church of Jesus Christ of Latter-day Saints.
 
 ## Education
 
-`2025-2027`
-__LDS Business College__, Salt Lake City, UT
+`2013-2017`
+__William Blount High School__, Maryville, TN
 
-- Full academic scholarship with 4.0 GPA
+- Highschool diploma
 
-`Expected 2029`
+`Expected 2024`
 __Brigham Young University - Idaho__, Rexburg, ID
 
-- 4.0 Major GPA
+-Bachelor in Computer Information Technology
+
+-Cluster in Machine learning
 
 
 ## Related Experience
@@ -73,12 +75,10 @@ __Pinnacle Management Group__,
 
 ## Service and Work History
 
-`2025-2027`
-__Math Tutor__, LDSBC
 
 
-`2023-2025`
-__Service Missionary__, South Africa
+`2017-2019`
+__Missionary__, Louisiana
 
 
 
